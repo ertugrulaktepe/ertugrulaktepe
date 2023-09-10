@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertuğrul</h1>
 <h3 align="center">Frontend Developer</h3>
-<img src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ertugrul-aktepe-10014918b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ertugrul-aktepe-10014918b" height="30" width="40" /></a>
